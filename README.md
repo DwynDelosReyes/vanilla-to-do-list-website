@@ -15,9 +15,9 @@ This project emphasizes clean code, usability, and responsive design, making it 
 ***
 ### 🎨 Features
 
-Responsive design suitable for desktop and mobile devices
-Two-category task organization to separate types of activities
-Progress bar for quick visual tracking of completed tasks
+- Responsive design suitable for desktop and mobile devices
+- Two-category task organization to separate types of activities
+- Progress bar for quick visual tracking of completed tasks
 
 ***
 ### 🛠️ Technical Details
